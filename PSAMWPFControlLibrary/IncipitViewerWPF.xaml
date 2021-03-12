@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="PSAMWPFControlLibrary.IncipitViewerWPF"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="120" Width="325" MouseEnter="UserControl_MouseEnter" MouseLeave="UserControl_MouseLeave">
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="Transparent"></SolidColorBrush>
+        </Grid.Background>
+        <Button Height="24" HorizontalAlignment="Right" Margin="0,12,8,0" Name="buttonPlay" VerticalAlignment="Top" Width="26" Visibility="Hidden" Click="buttonPlay_Click">
+            <Button.Content>
+                <Image Source="/PSAMWPFControlLibrary;component/Properties/piano.png"></Image>
+            </Button.Content>
+        </Button>
+        <Button Height="24" HorizontalAlignment="Left" Margin="12,12,0,0" Name="buttonParseError" VerticalAlignment="Top" Width="26" Visibility="Hidden" >
+            <Button.Content>
+                <Image Source="/PSAMWPFControlLibrary;component/Properties/exclamation__frame.png"></Image>
+            </Button.Content>
+        </Button>
+        <Button Height="24" HorizontalAlignment="Right" Margin="0,12,35,0" Name="buttonSave" VerticalAlignment="Top" Width="25" Visibility="Hidden" Click="buttonSave_Click">
+            <Button.Content>
+                <Image Source="/PSAMWPFControlLibrary;component/Properties/disk_black.png"></Image>
+            </Button.Content>
+        </Button>
+    </Grid>
+</UserControl>

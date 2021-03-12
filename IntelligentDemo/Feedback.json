@@ -1,0 +1,50 @@
+﻿[
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2018/05/07/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/ ",
+    "Text": "WOOHOO!!! This is EXCELLENT NEWS! The best news of //build thus far, IMO. This is the sort of thinking that I hope continues with other areas of research and business in MSFT as well.",
+    "Person": "Mike-EEE",
+    "Article": "Introducing ML.NET blog post"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2017/07/21/what-weve-learned-from-net-core-sdk-telemetry/ ",
+    "Text": "Expectation is misspelled in the \"Overall Operating System Version Distribution\" paragraph: \"expecation that .NET Core\".",
+    "Person": "Safta Bogdan",
+    "Article": "What we've learned from .NET Core SDK Telemetry"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2017/08/25/uwp-net-standard-2-0-preview/",
+    "Text": "We all have to face the fact that we are dealing with people whose only tangible skill is maneuvering the ultra politically correct environment MS. the UWP/Core Teams need to find something productive to do, your an stain on computer science.",
+    "Person": "Dave",
+    "Article": "UWP & .NET Standard 2.0: A preview is now available!"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/ ",
+    "Text": "I love you all and I hope you all win the lottery the day after this lands in the official compiler.",
+    "Person": "John DeHope",
+    "Article": "Introducing Nullable Reference Types in C# blog post"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2018/04/20/help-us-plan-the-future-of-net/ ",
+    "Text": "Would it be possible for Microsoft to share the usage percentage for the .Net languages (C#, F#, VB.Net)?",
+    "Person": "Frank",
+    "Article": "Help us plan the future of .NET!"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/ ",
+    "Text": "Thank you so much for your hard work on .net core! It’s an amazing product and it just works. Zero issues with anything so far.",
+    "Person": "Karl",
+    "Article": ".NET Core 3 and Support for Windows Desktop Applications blog post"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2018/05/07/net-core-3-and-support-for-windows-desktop-applications/",
+    "Text": "Ugh … HTML / CSS … no, just no. It’s bad enough having to endure those twin train-wrecks writing browser-based apps. Don’t let the cancer spread.",
+    "Person": "MV10",
+    "Article": ".NET Core 3 and Support for Windows Desktop Applications blog post"
+  },
+  {
+    "URL": "https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/ ",
+    "Text": "I'm sad about C#. The default for nullability is plainly crazy.",
+    "Person": "Ian Marteens",
+    "Article": "Introducing Nullable Reference Types in C#"
+  }
+]

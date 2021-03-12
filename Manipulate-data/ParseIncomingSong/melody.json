@@ -1,0 +1,586 @@
+{
+  "header": {
+    "PPQ": 256,
+    "timeSignature": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "name": "ML-Melody"
+  },
+  "startTime": 0,
+  "duration": 72,
+  "tracks": [
+    {
+      "startTime": 0,
+      "duration": 0,
+      "length": 0,
+      "notes": [],
+      "controlChanges": {},
+      "id": 0,
+      "name": "ML-Melody"
+    },
+    {
+      "startTime": 0,
+      "duration": 72,
+      "length": 73,
+      "notes": [
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 0,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 1,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 1.5,
+          "velocity": 0.6141732283464567,
+          "duration": 0.5
+        },
+        {
+          "name": "E5",
+          "midi": 76,
+          "time": 2,
+          "velocity": 0.6377952755905512,
+          "duration": 1
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 3,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 3.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 4,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 5,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 6,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 7,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 8,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 9,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 9.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 10,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 11,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 12,
+          "velocity": 0.6062992125984252,
+          "duration": 2
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 15,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "E4",
+          "midi": 64,
+          "time": 16,
+          "velocity": 0.5905511811023622,
+          "duration": 1.5
+        },
+        {
+          "name": "E4",
+          "midi": 64,
+          "time": 17.5,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 18,
+          "velocity": 0.6220472440944882,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 19,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 20,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 21,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 21.5,
+          "velocity": 0.6062992125984252,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 22,
+          "velocity": 0.6141732283464567,
+          "duration": 2
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 24,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 24.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 25,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 25.5,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 26,
+          "velocity": 0.6141732283464567,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 26.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 27,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 27.5,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 28,
+          "velocity": 0.5748031496062992,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 29,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 30,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "E4",
+          "midi": 64,
+          "time": 32,
+          "velocity": 0.5984251968503937,
+          "duration": 1.5
+        },
+        {
+          "name": "E4",
+          "midi": 64,
+          "time": 33.5,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 34,
+          "velocity": 0.6220472440944882,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 35,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 36,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 37,
+          "velocity": 0.6062992125984252,
+          "duration": 0.5
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 37.5,
+          "velocity": 0.6141732283464567,
+          "duration": 0.5
+        },
+        {
+          "name": "E5",
+          "midi": 76,
+          "time": 38,
+          "velocity": 0.6220472440944882,
+          "duration": 2
+        },
+        {
+          "name": "E5",
+          "midi": 76,
+          "time": 40,
+          "velocity": 0.5984251968503937,
+          "duration": 1.5
+        },
+        {
+          "name": "G5",
+          "midi": 79,
+          "time": 41.5,
+          "velocity": 0.6062992125984252,
+          "duration": 0.5
+        },
+        {
+          "name": "F5",
+          "midi": 77,
+          "time": 42,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "E5",
+          "midi": 76,
+          "time": 43,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 43.5,
+          "velocity": 0.5826771653543307,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 44,
+          "velocity": 0.5826771653543307,
+          "duration": 2
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 48,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 49,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 49.5,
+          "velocity": 0.6141732283464567,
+          "duration": 0.5
+        },
+        {
+          "name": "E5",
+          "midi": 76,
+          "time": 50,
+          "velocity": 0.6377952755905512,
+          "duration": 1
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 51,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 51.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "D5",
+          "midi": 74,
+          "time": 52,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 53,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "C5",
+          "midi": 72,
+          "time": 54,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 55,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 56,
+          "velocity": 0.6062992125984252,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 57,
+          "velocity": 0.5984251968503937,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 57.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 58,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 59,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 60,
+          "velocity": 0.6062992125984252,
+          "duration": 2
+        },
+        {
+          "name": "E4",
+          "midi": 64,
+          "time": 63,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 64,
+          "velocity": 0.6141732283464567,
+          "duration": 1
+        },
+        {
+          "name": "B4",
+          "midi": 71,
+          "time": 65,
+          "velocity": 0.6062992125984252,
+          "duration": 0.5
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 65.5,
+          "velocity": 0.5905511811023622,
+          "duration": 0.5
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 66,
+          "velocity": 0.5905511811023622,
+          "duration": 1
+        },
+        {
+          "name": "G#4",
+          "midi": 68,
+          "time": 67,
+          "velocity": 0.5984251968503937,
+          "duration": 1
+        },
+        {
+          "name": "A4",
+          "midi": 69,
+          "time": 68,
+          "velocity": 0.6062992125984252,
+          "duration": 4
+        }
+      ],
+      "controlChanges": {
+        "7": [
+          {
+            "number": 7,
+            "time": 0,
+            "value": 0.7874015748031497
+          }
+        ],
+        "10": [
+          {
+            "number": 10,
+            "time": 0,
+            "value": 0.5039370078740157
+          }
+        ],
+        "64": [
+          {
+            "number": 64,
+            "time": 0,
+            "value": 0
+          }
+        ],
+        "91": [
+          {
+            "number": 91,
+            "time": 0,
+            "value": 0.3779527559055118
+          }
+        ],
+        "121": [
+          {
+            "number": 121,
+            "time": 0,
+            "value": 0
+          }
+        ]
+      },
+      "id": 1,
+      "name": " ",
+      "instrumentNumber": 1,
+      "instrument": "bright acoustic piano",
+      "instrumentFamily": "piano",
+      "channelNumber": 0,
+      "isPercussion": false
+    }
+  ]
+}

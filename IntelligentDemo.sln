@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelligentDemo", "IntelligentDemo\IntelligentDemo.csproj", "{2584A768-E712-40D7-9A10-330FB2BB3AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSAMWPFControlLibrary", "PSAMWPFControlLibrary\PSAMWPFControlLibrary.csproj", "{24E32E85-6A86-4146-B877-30B422958874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicProcessor", "MusicProcessor\MusicProcessor.csproj", "{8A741CE3-92D6-488E-80BC-AC05389CD69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Custom = Debug|Custom
+		Release|Custom = Release|Custom
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2584A768-E712-40D7-9A10-330FB2BB3AF7}.Debug|Custom.ActiveCfg = Debug|x86
+		{2584A768-E712-40D7-9A10-330FB2BB3AF7}.Debug|Custom.Build.0 = Debug|x86
+		{2584A768-E712-40D7-9A10-330FB2BB3AF7}.Release|Custom.ActiveCfg = Release|x86
+		{2584A768-E712-40D7-9A10-330FB2BB3AF7}.Release|Custom.Build.0 = Release|x86
+		{24E32E85-6A86-4146-B877-30B422958874}.Debug|Custom.ActiveCfg = Debug|Any CPU
+		{24E32E85-6A86-4146-B877-30B422958874}.Debug|Custom.Build.0 = Debug|Any CPU
+		{24E32E85-6A86-4146-B877-30B422958874}.Release|Custom.ActiveCfg = Release|Any CPU
+		{24E32E85-6A86-4146-B877-30B422958874}.Release|Custom.Build.0 = Release|Any CPU
+		{8A741CE3-92D6-488E-80BC-AC05389CD69D}.Debug|Custom.ActiveCfg = Debug|x64
+		{8A741CE3-92D6-488E-80BC-AC05389CD69D}.Debug|Custom.Build.0 = Debug|x64
+		{8A741CE3-92D6-488E-80BC-AC05389CD69D}.Release|Custom.ActiveCfg = Release|Any CPU
+		{8A741CE3-92D6-488E-80BC-AC05389CD69D}.Release|Custom.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59F341FB-774A-4E05-9808-F7233098125A}
+	EndGlobalSection
+EndGlobal
