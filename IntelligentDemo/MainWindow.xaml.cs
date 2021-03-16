@@ -19,17 +19,11 @@ namespace IntelligentDemo
         private SongController _controller = new SongController();
         private List<UIElement> _displayed = new List<UIElement>();
         private Lazy<UIElement> _musicPage;
-        private Lazy<UIElement> _cameraPage;
-        private Lazy<UIElement> _feedbackPage;
-        private Lazy<UIElement> _twitterPage;
 
         public MainWindow()
         {
             InitializeComponent();
 
-            _cameraPage = new Lazy<UIElement>(() => WrapInBorder(new CameraPage(_controller)));
-            _feedbackPage = new Lazy<UIElement>(() => WrapInBorder(new FeedbackPage(_controller)));
-            _twitterPage = new Lazy<UIElement>(() => WrapInBorder(new TwitterPage(_controller)));
             _musicPage = new Lazy<UIElement>(() => WrapInBorder(new MusicPage(_controller)));
         }
 
@@ -43,33 +37,7 @@ namespace IntelligentDemo
             TogglePage(_musicPage.Value);
         }
 
-        private void Feedback_Click(object sender, RoutedEventArgs e)
-        {
-            TogglePage(_feedbackPage.Value);
-
-        }
-
-        private void Camera_Click(object sender, RoutedEventArgs e)
-        {
-            TogglePage(_cameraPage.Value);
-
-        }
-
-        private void Twitter_Click(object sender, RoutedEventArgs e)
-        {
-            TogglePage(_twitterPage.Value);
-
-        }
-
-        private void SplitScreenCheckbox_Checked(object sender, RoutedEventArgs e)
-        {
-        }
-
-        private void SplitScreenCheckbox_Unchecked(object sender, RoutedEventArgs e)
-        {
-            _displayed.Clear();
-        }
-
+        
         private void TogglePage(UIElement page)
         {
             if (_displayed.Contains(page))
@@ -79,16 +47,8 @@ namespace IntelligentDemo
             }
             else
             {
-                if (!SplitScreenCheckbox.IsChecked.GetValueOrDefault())
-                {
-                    _displayed.Clear();
-                }
-
-                if (!_displayed.Contains(page))
-                {
-                    _displayed.Add(page);
-                    Redraw();
-                }
+                _displayed.Add(page);
+                Redraw();
             }
         }
 
