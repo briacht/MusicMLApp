@@ -11,12 +11,6 @@
             <Grid DockPanel.Dock="Bottom" Height="40" Background="#a6a6a6">
                 <StackPanel Orientation="Horizontal" Margin="5">
                     <Button Height="20" Width="50" Margin="5" FontSize="10px" Name="Music" Click="Music_Click">Music</Button>
-                    <Button Height="20" Width="50" Margin="5" FontSize="10px" Name="Feedback" Click="Feedback_Click">Feedback</Button>
-                    <Button Height="20" Width="50" Margin="5" FontSize="10px" Name="Camera" Click="Camera_Click">Camera</Button>
-                    <Button Height="20" Width="50" Margin="5" FontSize="10px" Name="Twitter" Click="Twitter_Click">Twitter</Button>
-
-                    <CheckBox VerticalAlignment="Center" Name="SplitScreenCheckbox" Margin="5" Checked="SplitScreenCheckbox_Checked" Unchecked="SplitScreenCheckbox_Unchecked"></CheckBox>
-                    <TextBlock VerticalAlignment="Center" FontSize="10px" >Split</TextBlock>
                 </StackPanel>
             </Grid>
 
